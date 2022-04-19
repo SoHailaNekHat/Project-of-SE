@@ -126,3 +126,15 @@ break;
 case 7:
         system.out.println("Daykundi (Dari/Pashto: دایکندی), also spelled as Daikundi, Daykondi, Daikondi or Dai Kundi, is one of the thirty-four provinces of Afghanistan, located in the central part of the country. It has a population of about 516,504,[5] which is a Hazara Province.");
 break;
+case 14:
+  system.out.println("  Jowzjan, sometimes spelled as Jawzjan or Jozjan (Dari/Pashto: جوزجان), is one of the thirty-four provinces of Afghanistan, located in the north of the country bordering neighboring Turkmenistan. The province is divided into 11 districts and contains hundreds of villages. It has a population of about 613,481,[3] which is multi-ethnic and mostly agriculturalists. Sheberghan is the capital of Jozjan province.  ");
+   break;
+                                                      System.out.println("Zabul (Pashto/Dari: زابل) is one of the 34 provinces of Afghanistan, located in the south of the country. It has a mostly rural population of about 391,000.[4] Zabul became an independent province from neighbouring Kandahar in 1963. Historically, it was part of the Zabulistan region. Qalat serves as the capital of the province");
+case 15:
+  system.out.println("   Kandahar (English: /ˈkændəˌhɑːr/; Pashto: کندهار Kandahār, Dari: قندهار, Qandahār) is a city in Afghanistan, located in the south of the country on the Arghandab River, at an elevation of 1,010 m (3,310 ft). It is Afghanistan's second largest city after Kabul, with a population of about 614,118.[2] It is the capital of Kandahar Province as well as the de facto capital of the Taliban, formally known as the Islamic Emirate of Afghanistan. It also happens to be the centre of the larger cultural region called Loy Kandahar. In 1709, Mirwais Hotak made the region an independent kingdom and turned Kandahar into the capital of the Hotak dynasty. In 1747, Ahmad Shah Durrani, founder of the Durrani dynasty, made Kandahar the capital of the Afghan Empire.[3][4] ");
+   break;
+                                                 break;
+                                                      System.out.println("Zabul (Pashto/Dari: زابل) is one of the 34 provinces of Afghanistan, located in the south of the country. It has a mostly rural population of about 391,000.[4] Zabul became an independent province from neighbouring Kandahar in 1963. Historically, it was part of the Zabulistan region. Qalat serves as the capital of the province");
+case 16:
+  system.out.println("   Kunduz Is province (/kʊnduːz/; Pashto: کندز; Persian: قندوز original name: کُهَندِژ) is a city in northern Afghanistan, the capital of Kunduz Province. The city has an estimated population of about 268,893 as of 2015, making it about the 7th-largest city of Afghanistan, and the largest city in northeastern Afghanistan.[2] Kunduz is in the historical Tokharistan region of Bactria, near the confluence of the Kunduz River with the Khanabad River. Kunduz is linked by highways with Kabul to the south, Mazar-i-Sharif to the west, and Badakhshan to the east. Kunduz is also linked with Dushanbe in Tajikistan to the north, via the Afghan dry port of Sherkhan Bandar. ");
+   break;
