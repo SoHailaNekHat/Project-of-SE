@@ -104,3 +104,16 @@ case 22:
                 break;
 
                                                       break;
+case 17:
+         system.out.println("Kapisa
+Kapisa is one of the 34 provinces of Afghanistan. The province of Kapisa has a population of approximately 488 000. The main ethnic groups in Kapisa are Tajik, Pashtun, and Nuristani. The province is situated in central-eastern Afghanistan, surrounded by the provinces of Panjshir, Laghman, Kabul and Parwan ")
+ break;
+case 18:  
+          system.out.println("Khost
+City in Afghanistan
+Khōst is the capital city of Khost Province, Afghanistan. It is the largest city in the southeastern part of the country, and also the largest in the region of Loya Paktia. To the south and east of Khost lie Waziristan and Kurram in Pakistan. Khost is the home of Shaikh Zayed University ")
+break;
+case 19:
+          system.out.println("Kunar
+Kunar is one of the 34 provinces of Afghanistan, located in the northeastern part of the country. Its capital is Asadabad. Its population is estimated to be 508,224. It is one of the four "N2KL" provinces ")
+break;
