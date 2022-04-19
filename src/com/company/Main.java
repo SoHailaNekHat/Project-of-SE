@@ -62,6 +62,7 @@ The Helmand River flows through the mainly desert region of the province, provid
                 System.out.println("The province of Herat shares a border with Iran in the west and Turkmenistan in the north, making it an important trading region. The Trans-Afghanistan Pipeline (TAPI) is expected to pass through Herat from Turkmenistan to Pakistan and India in the south. The province has two airports, one is the Herat International Airport in the capital of Herat and the other is at the Shindand Air Base, which is one of the largest military bases in Afghanistan. The Salma Dam which is fed by the Hari River is also located in this province. ");
                 break;
 
+
 case 23:
                 System.out.println("Nimruz
 Nimruz or Nimroz is one of the 34 provinces of Afghanistan, located in the southwestern part of the country. It lies to the east of the Sistan and Baluchestan Province of Iran and north of Balochistan, Pakistan, also bordering the Afghan provinces of Farah and Helmand. It has a population of about 186,963 people. Wikipedia
@@ -82,6 +83,16 @@ case 25:
 Area: 6,432 km²
 Capital: Gardez
 Population: 551,987 (2015) ");
+                break;
+
+case 14:
+                System.out.println(" Jowzjan, sometimes spelled as Jawzjan or Jozjan (Dari/Pashto: جوزجان), is one of the thirty-four provinces of Afghanistan, located in the north of the country bordering neighboring Turkmenistan. The province is divided into 11 districts and contains hundreds of villages. It has a population of about 613,481,[3] which is multi-ethnic and mostly agriculturalists. Sheberghan is the capital of Jozjan province. ");
+                break;
+case 15:
+                System.out.println(" Kandahār (Pashto: کندھار; Kandahār, Dari: قندهار; Qandahār) is one of the thirty-four provinces of Afghanistan, located in the southern part of the country, sharing a border with Pakistan, to the south. It is surrounded by Helmand in the west, Uruzgan in the north and Zabul Province in the east. Its capital is the city of Kandahar, Afghanistan's second largest city, which is located on the Arghandab River. The greater region surrounding the province is called Loy Kandahar. The Emir of Afghanistan sends orders to Kabul from Kandahar making it the de facto capital of Afghanistan, although the main government body operates in Kabul. All meetings with the Emir take place in Kandahar, meetings excluding the Emir are in Kabul. ");
+                break;
+case 16:
+                System.out.println("  Kunduz or Qunduz (Dari: قندوز, Pashto: کندوز) is one of the 34 provinces of Afghanistan, located in the northern part of the country next to Tajikistan. The population of the province is around 1,136,677,[2] which is mostly a tribal society; it is one of Afghanistan's most ethnically diverse provinces with many different ethnicities in large numbers living there.[3][4][5] The city of Kunduz serves as the capital of the province. It borders the provinces of Takhar, Baghlan, Samangan and Balkh, as well as the Khatlon Region of Tajikistan. The Kunduz Airport is located next to the provincial capital. ");
                 break;
         }
 
