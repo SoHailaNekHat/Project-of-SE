@@ -34,56 +34,19 @@ Balkh is ethnically diverse, including substantial Tajik, Hazara, Pashtuns, Arab
 
 Taliban Shadow Governor: Mawlavi Naser (captured March 2016) - Mawlavi Naser was captured by security forces near Khenjan district in March 2016. His replacement is not yet known.");
                 break;
-case 8:
-                System.out.println(" There is a history of revolt in Farah. Bala Boluk district was one of the first areas in the country to rise up against the Soviet occupation that started in late 1979. The so-called Sharafat Koh Front (“mountain of honour” front) emerged, named after a landmark in its area of operation in the district. The area was originally called Lwar Koh, or High Mountain, a range whose highest peak reaches 2,553 metres and cuts through the Ring Road (Highway 1) between Kandahar and Herat. This forbidding geography made the area difficult to control for the Soviets and later the Americans. This same region was also the 2015 birthplace of a self-declared “dissident” Taleban faction under Mullah Muhammad Rasul, a native of adjoining Bakwa district. Rasul had been one of the Sharafat Koh Front’s commanders, associated with the mujahedin organisation, _Harakat-e Enqelab-e Islami ");
-                break;
-case 9:
-                System.out.println("Faryab is a Persian toponym meaning "lands irrigated by diversion of river water".[6] The name Faryab takes its name from a town founded in the area by the Sassanids. It is the home town of the famed Islamic philosopher, al-Farabi (per the biographer Ibn al-Nadim). The area is part of the trans-border region of Greater Khorasan; during the colonial era, British geographers referred to the area as Afghan Turkestan.
+case 20:
+                System.out.println("  The Alingar and Alishing rivers pass through Laghman, as the province is known for its lushness. Laghman has sizable amounts of irrigated land as one can find scores of fruits and vegetables from Laghman in Kabul. Other main crops in Laghman include rice, wheat and cotton as many people living in the area are involved in agricultural trade and business.
 
-The history of settlement in Faryab is ancient and comprises layer upon layer of occupation. At times, it was a melting pot within which a host of cultures have merged into a non-conflictual whole or at least peaceable coexistence.
-
-Maymana and Andkhoy (Andkhui) entered written history 2,500 years ago when Jews arrived and settled in 586 BC,[citation needed] fleeing the destruction of Jerusalem by Nebuchadnezzar. The territory was under Persian control at the time, which later gave way to Greek rule following the conquest by Alexander the Great in 326 BC.  ");
+Laghman also has an array of precious stones and minerals,[26] as it is well known for being a relatively untapped source of the Tourmaline and Spodumene gemstones which are reported to be in abundance at the northern portions of the province.[27] There are also marble mines.[28]");
                 break;
+case 21:
+                System.out.println("Logar (Pashto: لوګر; Dari: لوگر) meaning Greater Mountain ( لوې غر) is one of the 34 provinces of Afghanistan located in the eastern section of the country. It is divided into 7 districts and contains hundreds of villages. Ahmadzai Pashtuns are dominant in this region. Puli Alam is the capital of the province. As of 2021, Logar has a population of approximately 442,037.[3] It is a multi-ethnic tribal society, with a Tajik and Pashtun majority.[4]
 
-case 10:
-                System.out.println("Ghaznī, formerly Ghazna, city, east-central Afghanistan. It lies beside the Ghaznī River on a high plateau at an elevation of 7,300 feet (2,225 metres). Afghanistan’s only remaining walled town, it is dominated by a 150-foot- (45-metre-) high citadel built in the 13th century. Around the nearby village of Rowẓeh-e Sultan, on the old road to Kabul (the nation’s capital, 80 miles [130 km] northeast), are the ruins of ancient Ghazna, including two 140-foot (43-metre) towers and the tomb of Maḥmūd of Ghazna (971–1030), the most powerful emir (or sultan) of the Ghaznavid dynasty.
-
- ");
-                break;
-                                    case 11:
-                System.out.println("  ghor also is one of the thirthy four provinces have afghanistan it is located in the western ");
-                break;
-                                    case 12:
-                System.out.println(" Helmand was part of the Greater Kandahar region until made into a separate province by the Afghan government in the 20th century. The province has a domestic airport (Bost Airport), in the city of Lashkargah that was heavily used by NATO-led forces. The former British Camp Bastion and U.S. Camp Leatherneck is a short distance southwest of Lashkargah.
-
-The Helmand River flows through the mainly desert region of the province, providing water used for irrigation. The Kajaki Dam, which is one of Afghanistan's major reservoirs, is located in the Kajaki district. Helmand is believed to be one of the world's largest opium-producing regions, responsible for around 42% of the world's total production.[");
-                break;
-                                    case 13:
-                System.out.println("The province of Herat shares a border with Iran in the west and Turkmenistan in the north, making it an important trading region. The Trans-Afghanistan Pipeline (TAPI) is expected to pass through Herat from Turkmenistan to Pakistan and India in the south. The province has two airports, one is the Herat International Airport in the capital of Herat and the other is at the Shindand Air Base, which is one of the largest military bases in Afghanistan. The Salma Dam which is fed by the Hari River is also located in this province. ");
+The Logar River enters the province through the west, and leaves to the north.  ");
                 break;
 
-case 23:
-                System.out.println("Nimruz
-Nimruz or Nimroz is one of the 34 provinces of Afghanistan, located in the southwestern part of the country. It lies to the east of the Sistan and Baluchestan Province of Iran and north of Balochistan, Pakistan, also bordering the Afghan provinces of Farah and Helmand. It has a population of about 186,963 people. Wikipedia
-Area: 43,000 km²
-Capital: Zaranj
-Population: 630,000 (2021)");
-                break;
-case 24:
-                System.out.println("Nuristan
-Nuristan, also spelled as Nurestan or Nooristan, is one of the 34 provinces of Afghanistan, located in the eastern part of the country. It is divided into seven districts and is Afghanistan's least populous province, with a population of around 167,000. Parun serves as the provincial capital. Wikipedia
-Area: 9,225 km²
-Capital: Parun
-ISO 3166 code: AF-NUR
-People also search for");
-                break;
-case 25:
-                System.out.println("Paktia is one of the 34 provinces of Afghanistan, located in the east of the country. Forming part of the larger Loya Paktia region, Paktia Province is divided into 15 districts and has a population of roughly 623,000, which is mostly a tribal society living in rural areas. Wikipedia
-Area: 6,432 km²
-Capital: Gardez
-Population: 551,987 (2015) ");
-                break;
-        }
+case 22:
+                System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")
 
-    }
-}
+
+               
