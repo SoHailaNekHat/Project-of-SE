@@ -23,6 +23,9 @@ public class Main {
         int n= sc.nextInt();
         switch (n){
             case 1:
+                System.out.println("");
+                break;
+case 2:
                 System.out.println("Badghis Province is located in the isolated hills of northwestern Afghanistan and shares its borders with Herat, Ghor, and Faryab provinces as well as Turkmenistan. The province is dominated by the Murghab River in the north and the Hari-Rud River in the south. Badghis remains extremely underdeveloped, especially outside the provincial capital of Qalay-i-Naw. The province is inhabited by Tajiks who are thought to make up 62 per cent of the population with Pashtuns making up approximately 28 percent.
 
 Currently, the security situation has deteriorated in the northern districts of Ghormach and Murghab, both of which are heavily populated by Pashtuns and sympathetic to the local Taliban. The strategic “ring-road” highway that connects Kabul to Kandahar and Herat also has an uncompleted northern leg, a portion of which cuts through Badghis. The roadway in Badghis is currently unpaved and all efforts to begin work on it has faced delays due to security issues. Until 2008, there was no permanent Afghan Army presence in the province, and most provincial police units were based in the capital with only 40-50 security personnel stationed in each of the remote districts.
@@ -30,9 +33,6 @@ Currently, the security situation has deteriorated in the northern districts of 
 Dr. Jamaluddin Ishaq, an ethnic Tajik, but reported to be a member of a Pashtun national party. He was appointed to be the Governor of Badghis in September 2015 by President Ashraf Ghani. This is believed to be his first position in the Afghan government. Upon taking office, Ishaq laid out his top priorities: improving security, procuring electricity from Turkmenistan, and clean drinking water in the provincial capital of Qala-i-Naw.13
 
 The Taliban's shadow governor for Badghis was killed in October 2015 during a confrontation between Afhgan security and Taliban fighters.14");
-                break;
-case 2:
-                System.out.println("");
                 break;
 case 3:
                 System.out.println("Baghlan Province is located in northeastern Afghanistan has an area of 21,112 sq. km (8,151 sq. miles) and a population estimated at 762, 500. The northern part of Baghlan contains slopes of the Hindu Kush mountain range crossed by the Robatak, Barabi, Khawak and Salang Passes. Baghlan maintains an ethnically diverse population which includes Tajiks, Pashtuns, Uzbeks, Hazara and Tartars.
