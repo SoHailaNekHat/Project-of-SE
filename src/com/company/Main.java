@@ -48,5 +48,3 @@ The Logar River enters the province through the west, and leaves to the north.  
 case 22:
                 System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")
 
-
-               
