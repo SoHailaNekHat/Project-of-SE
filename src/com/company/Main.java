@@ -25,25 +25,7 @@ public class Main {
             case 1:
                 System.out.println("");
                 break;
-case 2:
-                System.out.println("Badghis Province is located in the isolated hills of northwestern Afghanistan and shares its borders with Herat, Ghor, and Faryab provinces as well as Turkmenistan. The province is dominated by the Murghab River in the north and the Hari-Rud River in the south. Badghis remains extremely underdeveloped, especially outside the provincial capital of Qalay-i-Naw. The province is inhabited by Tajiks who are thought to make up 62 per cent of the population with Pashtuns making up approximately 28 percent.
 
-Currently, the security situation has deteriorated in the northern districts of Ghormach and Murghab, both of which are heavily populated by Pashtuns and sympathetic to the local Taliban. The strategic “ring-road” highway that connects Kabul to Kandahar and Herat also has an uncompleted northern leg, a portion of which cuts through Badghis. The roadway in Badghis is currently unpaved and all efforts to begin work on it has faced delays due to security issues. Until 2008, there was no permanent Afghan Army presence in the province, and most provincial police units were based in the capital with only 40-50 security personnel stationed in each of the remote districts.
-
-Dr. Jamaluddin Ishaq, an ethnic Tajik, but reported to be a member of a Pashtun national party. He was appointed to be the Governor of Badghis in September 2015 by President Ashraf Ghani. This is believed to be his first position in the Afghan government. Upon taking office, Ishaq laid out his top priorities: improving security, procuring electricity from Turkmenistan, and clean drinking water in the provincial capital of Qala-i-Naw.13
-
-The Taliban's shadow governor for Badghis was killed in October 2015 during a confrontation between Afhgan security and Taliban fighters.14");
-                break;
-case 3:
-                System.out.println("Baghlan Province is located in northeastern Afghanistan has an area of 21,112 sq. km (8,151 sq. miles) and a population estimated at 762, 500. The northern part of Baghlan contains slopes of the Hindu Kush mountain range crossed by the Robatak, Barabi, Khawak and Salang Passes. Baghlan maintains an ethnically diverse population which includes Tajiks, Pashtuns, Uzbeks, Hazara and Tartars.
-
-Agriculture remains a main source of labor for Baghlan residents particularly in northern parts of the province where grapes, pistachio nuts, pomegranates and sugar beets are grown. Since the 1940s, Baghlan has served as a big producer of Afghan sugar with a large refining facility located near Pul-i-Khumri. Decades of war, instability and drought severely damaged Baghlan’s economic capabilities.
-
-Recent efforts by NATO and the international community have rehabilitated a large sugar factory near Pul-i-Khumri with some sugar refining operations beginning in 2006. A second sugar factory was finished the following November, but its inauguration was marred after a suicide-bomber detonated himself among the opening ceremony, killing at least 68 people; mostly young children tasked with singing in a choir to the visiting Members of Parliament who were visiting the facility. Five visiting MP’s, including, former Commerce Minister Sayed Mustafa Kazemi, died in the attack.
-
-Baghlan has suffered from ineffective governance since 2001 with nine different governors attempting to bring stability and security to the province. The current governor, Munshi Abdul Majeed, replaced Haji Mohammad Akbar Barakzai, who was appointed in January 2009. A recent series of suicide bombings, factional fighting, and criminal activity has continued to plague Baghlan, including its provincial capital, Pul-i-Khumri. Majeed is a former Hezb-i-Islami commander and native of Baghlan province who has served as the governor of Badakshan for several years before replacing Akbar Barakzai.");
-                break;
-case 4:
                 System.out.println("Balkh province is located in northern Afghanistan and is known for its fertile land and high potential in the agricultural sector. Mazar-i-Sharif, located in Balkh, is Afghanistan’s fourth largest city and by far the most important urban center of the northern region.  Given the relative security and political stability in Balkh, development and construction projects like irrigation rehabilitation has occurred over the past five years.  A substantial amount of almond and apricot orchards have been planted and maintained since the irrigation overhaul began.
 
 Balkh has a tradition of high educational standards and has a comparatively high literacy, also for women, and Balkh is home to several universities including Balkh University, the second largest university in Afghanistan.
@@ -52,19 +34,21 @@ Balkh is ethnically diverse, including substantial Tajik, Hazara, Pashtuns, Arab
 
 Taliban Shadow Governor: Mawlavi Naser (captured March 2016) - Mawlavi Naser was captured by security forces near Khenjan district in March 2016. His replacement is not yet known.");
                 break;
-case 17:
-                System.out.println("Kapisa
-Kapisa is one of the 34 provinces of Afghanistan. The province of Kapisa has a population of approximately 488 000. The main ethnic groups in Kapisa are Tajik, Pashtun, and Nuristani. The province is situated in central-eastern Afghanistan, surrounded by the provinces of Panjshir, Laghman, Kabul and Parwan ");
+case 8:
+                System.out.println(" There is a history of revolt in Farah. Bala Boluk district was one of the first areas in the country to rise up against the Soviet occupation that started in late 1979. The so-called Sharafat Koh Front (“mountain of honour” front) emerged, named after a landmark in its area of operation in the district. The area was originally called Lwar Koh, or High Mountain, a range whose highest peak reaches 2,553 metres and cuts through the Ring Road (Highway 1) between Kandahar and Herat. This forbidding geography made the area difficult to control for the Soviets and later the Americans. This same region was also the 2015 birthplace of a self-declared “dissident” Taleban faction under Mullah Muhammad Rasul, a native of adjoining Bakwa district. Rasul had been one of the Sharafat Koh Front’s commanders, associated with the mujahedin organisation, _Harakat-e Enqelab-e Islami ");
                 break;
-case 18:
-                System.out.println("Khost
-City in Afghanistan
-Khōst is the capital city of Khost Province, Afghanistan. It is the largest city in the southeastern part of the country, and also the largest in the region of Loya Paktia. To the south and east of Khost lie Waziristan and Kurram in Pakistan. Khost is the home of Shaikh Zayed University ");
+case 9:
+                System.out.println("Faryab is a Persian toponym meaning "lands irrigated by diversion of river water".[6] The name Faryab takes its name from a town founded in the area by the Sassanids. It is the home town of the famed Islamic philosopher, al-Farabi (per the biographer Ibn al-Nadim). The area is part of the trans-border region of Greater Khorasan; during the colonial era, British geographers referred to the area as Afghan Turkestan.
+
+The history of settlement in Faryab is ancient and comprises layer upon layer of occupation. At times, it was a melting pot within which a host of cultures have merged into a non-conflictual whole or at least peaceable coexistence.
+
+Maymana and Andkhoy (Andkhui) entered written history 2,500 years ago when Jews arrived and settled in 586 BC,[citation needed] fleeing the destruction of Jerusalem by Nebuchadnezzar. The territory was under Persian control at the time, which later gave way to Greek rule following the conquest by Alexander the Great in 326 BC.  ");
                 break;
 
-case 19:
-                System.out.println("Kunar
-Kunar is one of the 34 provinces of Afghanistan, located in the northeastern part of the country. Its capital is Asadabad. Its population is estimated to be 508,224. It is one of the four "N2KL" provinces ");
+case 10:
+                System.out.println("Ghaznī, formerly Ghazna, city, east-central Afghanistan. It lies beside the Ghaznī River on a high plateau at an elevation of 7,300 feet (2,225 metres). Afghanistan’s only remaining walled town, it is dominated by a 150-foot- (45-metre-) high citadel built in the 13th century. Around the nearby village of Rowẓeh-e Sultan, on the old road to Kabul (the nation’s capital, 80 miles [130 km] northeast), are the ruins of ancient Ghazna, including two 140-foot (43-metre) towers and the tomb of Maḥmūd of Ghazna (971–1030), the most powerful emir (or sultan) of the Ghaznavid dynasty.
+
+ ");
                 break;
         }
 
