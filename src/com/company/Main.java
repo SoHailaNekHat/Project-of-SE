@@ -87,4 +87,20 @@ In 2004, the new Daykundi Province was carved out of an area in the north. Uruzg
                                                       
                                                       case 34:
                                                       System.out.println("Zabul (Pashto/Dari: زابل) is one of the 34 provinces of Afghanistan, located in the south of the country. It has a mostly rural population of about 391,000.[4] Zabul became an independent province from neighbouring Kandahar in 1963. Historically, it was part of the Zabulistan region. Qalat serves as the capital of the province");
+
+case 20:
+                System.out.println("  The Alingar and Alishing rivers pass through Laghman, as the province is known for its lushness. Laghman has sizable amounts of irrigated land as one can find scores of fruits and vegetables from Laghman in Kabul. Other main crops in Laghman include rice, wheat and cotton as many people living in the area are involved in agricultural trade and business.
+
+Laghman also has an array of precious stones and minerals,[26] as it is well known for being a relatively untapped source of the Tourmaline and Spodumene gemstones which are reported to be in abundance at the northern portions of the province.[27] There are also marble mines.[28]");
+                break;
+case 21:
+                System.out.println("Logar (Pashto: لوګر; Dari: لوگر) meaning Greater Mountain ( لوې غر) is one of the 34 provinces of Afghanistan located in the eastern section of the country. It is divided into 7 districts and contains hundreds of villages. Ahmadzai Pashtuns are dominant in this region. Puli Alam is the capital of the province. As of 2021, Logar has a population of approximately 442,037.[3] It is a multi-ethnic tribal society, with a Tajik and Pashtun majority.[4]
+
+The Logar River enters the province through the west, and leaves to the north.  ");
+                break;
+
+case 22:
+                System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")؛
+                break;
+
                                                       break;
