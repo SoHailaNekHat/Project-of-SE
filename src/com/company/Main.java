@@ -25,7 +25,23 @@ public class Main {
             case 1:
                 System.out.println("");
                 break;
+case 8:
+                System.out.println(" There is a history of revolt in Farah. Bala Boluk district was one of the first areas in the country to rise up against the Soviet occupation that started in late 1979. The so-called Sharafat Koh Front (“mountain of honour” front) emerged, named after a landmark in its area of operation in the district. The area was originally called Lwar Koh, or High Mountain, a range whose highest peak reaches 2,553 metres and cuts through the Ring Road (Highway 1) between Kandahar and Herat. This forbidding geography made the area difficult to control for the Soviets and later the Americans. This same region was also the 2015 birthplace of a self-declared “dissident” Taleban faction under Mullah Muhammad Rasul, a native of adjoining Bakwa district. Rasul had been one of the Sharafat Koh Front’s commanders, associated with the mujahedin organisation, _Harakat-e Enqelab-e Islami ");
+                break;
+case 9:
+                System.out.println("Faryab is a Persian toponym meaning "lands irrigated by diversion of river water".[6] The name Faryab takes its name from a town founded in the area by the Sassanids. It is the home town of the famed Islamic philosopher, al-Farabi (per the biographer Ibn al-Nadim). The area is part of the trans-border region of Greater Khorasan; during the colonial era, British geographers referred to the area as Afghan Turkestan.
 
+The history of settlement in Faryab is ancient and comprises layer upon layer of occupation. At times, it was a melting pot within which a host of cultures have merged into a non-conflictual whole or at least peaceable coexistence.
+
+Maymana and Andkhoy (Andkhui) entered written history 2,500 years ago when Jews arrived and settled in 586 BC,[citation needed] fleeing the destruction of Jerusalem by Nebuchadnezzar. The territory was under Persian control at the time, which later gave way to Greek rule following the conquest by Alexander the Great in 326 BC.  ");
+                break;
+
+case 10:
+                System.out.println("Ghaznī, formerly Ghazna, city, east-central Afghanistan. It lies beside the Ghaznī River on a high plateau at an elevation of 7,300 feet (2,225 metres). Afghanistan’s only remaining walled town, it is dominated by a 150-foot- (45-metre-) high citadel built in the 13th century. Around the nearby village of Rowẓeh-e Sultan, on the old road to Kabul (the nation’s capital, 80 miles [130 km] northeast), are the ruins of ancient Ghazna, including two 140-foot (43-metre) towers and the tomb of Maḥmūd of Ghazna (971–1030), the most powerful emir (or sultan) of the Ghaznavid dynasty.
+
+ ");
+                break;
+case 2
                 System.out.println("Balkh province is located in northern Afghanistan and is known for its fertile land and high potential in the agricultural sector. Mazar-i-Sharif, located in Balkh, is Afghanistan’s fourth largest city and by far the most important urban center of the northern region.  Given the relative security and political stability in Balkh, development and construction projects like irrigation rehabilitation has occurred over the past five years.  A substantial amount of almond and apricot orchards have been planted and maintained since the irrigation overhaul began.
 
 Balkh has a tradition of high educational standards and has a comparatively high literacy, also for women, and Balkh is home to several universities including Balkh University, the second largest university in Afghanistan.
