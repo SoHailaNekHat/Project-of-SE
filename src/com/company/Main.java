@@ -52,8 +52,27 @@ Balkh is ethnically diverse, including substantial Tajik, Hazara, Pashtuns, Arab
 
 Taliban Shadow Governor: Mawlavi Naser (captured March 2016) - Mawlavi Naser was captured by security forces near Khenjan district in March 2016. His replacement is not yet known.");
                 break;
-
+case 23:
+                System.out.println(" Nimruz or Nimroz is one of the 34 provinces of Afghanistan, located in the southwestern part of the country. It lies to the east of the Sistan and Baluchestan Province of Iran and north of Balochistan, Pakistan, also bordering the Afghan provinces of Farah and Helmand. It has a population of about 186,963 people. Wikipedia
+Area: 43,000 km²
+Capital: Zaranj
+Population: 630,000 (2021) ");
+                break;
+case 24:
+                System.out.println("Nuristan, also spelled as Nurestan or Nooristan, is one of the 34 provinces of Afghanistan, located in the eastern part of the country. It is divided into seven districts and is Afghanistan's least populous province, with a population of around 167,000. Parun serves as the provincial capital. Wikipedia
+Area: 9,225 km²
+Capital: Parun
+ISO 3166 code: AF-NUR ");
+                break;
+case 25:
+                System.out.println(" Paktia is one of the 34 provinces of Afghanistan, located in the east of the country. Forming part of the larger Loya Paktia region, Paktia Province is divided into 15 districts and has a population of roughly 623,000, which is mostly a tribal society living in rural areas. Wikipedia
+Area: 6,432 km²
+Capital: Gardez
+Population: 551,987 (2015)");
+                break;
         }
+
+
 
     }
 }
