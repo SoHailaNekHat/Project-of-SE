@@ -117,3 +117,12 @@ case 19:
           system.out.println("Kunar
 Kunar is one of the 34 provinces of Afghanistan, located in the northeastern part of the country. Its capital is Asadabad. Its population is estimated to be 508,224. It is one of the four "N2KL" provinces ")
 break;
+case 5:
+        system.out.println("Bamyan is the largest town in the central Afghanistan region of Hazarajat, and lies approximately 240 kilometres north-west of Kabul, the national capital. It also refers to the surrounding valley. Many statues of Buddha are carved into the sides of cliffs facing Bamyan city. In 2008, Bamyan was found to be the home of the world's oldest oil paintings.[5] The city of Bamyan has four districts and a total land area of 3,539 hectares.[6] The total number of dwellings in this city are 4,435.[6]");
+break;
+case 6:
+        system.out.println("Badakhshan Province is one of the 34 provinces of Afghanistan, located in the northeastern part of the country. It is bordered by Tajikistan's Gorno-Badakhshan in the north and the Pakistan-administered Lower and Upper Chitral and Gilgit-Baltistan in the southeast ");
+break;
+case 7:
+        system.out.println("Daykundi (Dari/Pashto: دایکندی), also spelled as Daikundi, Daykondi, Daikondi or Dai Kundi, is one of the thirty-four provinces of Afghanistan, located in the central part of the country. It has a population of about 516,504,[5] which is a Hazara Province.");
+break;
