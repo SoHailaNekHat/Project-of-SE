@@ -68,7 +68,7 @@ case 25:
                 System.out.println(" Paktia is one of the 34 provinces of Afghanistan, located in the east of the country. Forming part of the larger Loya Paktia region, Paktia Province is divided into 15 districts and has a population of roughly 623,000, which is mostly a tribal society living in rural areas. Wikipedia
 Area: 6,432 km²
 Capital: Gardez
-Population: 551,987 (2015).");
+Population: 551,987 (2015)");
                 break;
         }
 
