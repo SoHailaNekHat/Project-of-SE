@@ -52,6 +52,19 @@ Balkh is ethnically diverse, including substantial Tajik, Hazara, Pashtuns, Arab
 
 Taliban Shadow Governor: Mawlavi Naser (captured March 2016) - Mawlavi Naser was captured by security forces near Khenjan district in March 2016. His replacement is not yet known.");
                 break;
+case 5:
+                System.out.println("Bamyan
+City in Afghanistan
+Bamyan also spelled Bamiyan or Bamian is the capital of Bamyan Province in central Afghanistan. With an altitude of about 2,550 m and a population of about 100,000, Bamyan is the largest town in the ");
+                break;
+case 6:
+                System.out.println("Badakhshan
+Badakhshan Province is one of the 34 provinces of Afghanistan, located in the northeastern part of the country. It is bordered by Tajikistan's Gorno-Badakhshan in the north and the Pakistan-administered Lower and Upper Chitral and Gilgit-Baltistan in the southeast ");
+                break;
+case 7:
+                System.out.println("Daykundi
+Daykundi, also spelled as Daikundi, Daykondi, Daikondi or Dai Kundi, is one of the thirty-four provinces of Afghanistan, located in the central part of the country. It has a population of about 516,504, which is a Hazara Province ");
+                break;
 
         }
 
