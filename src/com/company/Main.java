@@ -113,7 +113,8 @@ Main languages
 Pashto, Dari
 
 the population of the province is around 1,735,531.[3] Over 90% of the population is Pashtun and the remaining is made up of Pashais, Tajiks, Arabs, and other ethnic groups.[16] The 18th edition Ethnologue states on p. 48 that Nangarhar is the center of the (smaller) Northern Pashto language in Afghanistan. Only 1 in 5 Afghan Pashtuns use the Northern variety.
-");
+
+Information added by Sabrina Hayat");
                 break;
 
 
