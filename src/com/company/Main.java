@@ -76,6 +76,25 @@ The Logar River enters the province through the west, and leaves to the north.  
 
 case 22:
                 System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")
+                              case 29:
+                             system.out.println("Samangan (Dari: سمنگان; Pashto: سمنګان) is one of the thirty-four provinces of Afghanistan, located north of the Hindu Kush mountains in the central part of the country. The province covers 11,218 square kilometres (4,331 sq mi) and is surrounded by Sar-e Pol Province in the west, Balkh in the north, Baghlan in the east, and Bamyan in the south.
+
+Samangan province is divided into 7 districts and contains 674 villages.[4] It has a population of about 438,000,[3] which is multi-ethnic and mostly a rural society. The city of Aybak serves as the provincial capital.
+
+In 2021, the Taliban gained control of the province during the 2021 Taliban offensive.");
+                             break;
+ case 30:
+                             system.out.println("Sar-e Pol, also spelled Sari Pul (Dari/Pashto: سرپل), is one of the thirty-four provinces of Afghanistan, located in the north of the country. It borders Ghor and Bamyan to the south, Samangan to the east, Balkh and Jowzjan to the north, and Faryab to the west. The province is divided into 7 districts and contains 896 villages. It has a population of about 632,000,[2] which is multi-ethnic and mostly a tribal society. The province was created in 1988, with the support of northern Afghan politician Sayed Nasim Mihanparast.[3] The city of Sar-e Pol serves as the provincial capital.
+
+In 2021, the Taliban gained control of the province during the 2021 Taliban offensive.");
+                             break;
+ case 31:
+                             system.out.println("Takhar (Dari/Pashto: تخار) is one of the thirty-four provinces of Afghanistan, located in the northeast of the country next to Tajikistan. It is surrounded by Badakhshan in the east, Panjshir in the south, and Baghlan and Kunduz in the west. The city of Taloqan serves as its capital.
+
+The province contains 17 districts, over 1,000 villages, and approximately 1,113,173 people,[4] which is multi-ethnic and mostly a rural society.[5]
+
+In 2021, the Taliban gained control of the province during the 2021 Taliban offensive. However, National Resistance Front fighters have still maintained a presence in the province");
+                             break;
                                    case 32:
                                    System.out.println("Uruzgan (Pashto: اروزګان; Dariارزگان), also spelled as Urozgan or Oruzgan, is one of the thirty-four provinces of Afghanistan. Uruzgan is located in the center of the country. The population is 436,079,[3] and the province is mostly a tribal society. Tarinkot serves as the capital of the province.
 
@@ -138,3 +157,4 @@ case 15:
 case 16:
   system.out.println("   Kunduz Is province (/kʊnduːz/; Pashto: کندز; Persian: قندوز original name: کُهَندِژ) is a city in northern Afghanistan, the capital of Kunduz Province. The city has an estimated population of about 268,893 as of 2015, making it about the 7th-largest city of Afghanistan, and the largest city in northeastern Afghanistan.[2] Kunduz is in the historical Tokharistan region of Bactria, near the confluence of the Kunduz River with the Khanabad River. Kunduz is linked by highways with Kabul to the south, Mazar-i-Sharif to the west, and Badakhshan to the east. Kunduz is also linked with Dushanbe in Tajikistan to the north, via the Afghan dry port of Sherkhan Bandar. ");
    break;
+
