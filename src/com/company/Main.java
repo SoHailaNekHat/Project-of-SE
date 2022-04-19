@@ -45,6 +45,15 @@ case 10:
 
  ");
                 break;
+ case 11:
+                 System.out.println("Ghor: Also called Ghoristan. The mountainous country between Hirat and Ghazni. According to Istakhri and Ibn Haukal it was a rugged mountainous country , bounded by the districts of Hirat, Farrah, Dawar, Rabat, Kurwan, and Gharjistan back to Hirat, which were all musim countries. Ghor itself was a country of infidels, containing only a few Musulmans, and the inhabitants spoke a language different from that of Khurasan.");
+                 break;
+ case 12:     
+                  System.out.prinln("Helmand (Pashto/Dari: هلمند; /ˈhɛlmənd/ HEL-mənd[3]), also known as Hillmand, in ancient times, as Hermand and Hethumand,[4] is one of the 34 provinces of Afghanistan, in the south of the country. It is the largest province by area, covering 58,584 square kilometres (20,000 sq mi) area. The province contains 13 districts, encompassing over 1,000 villages, and roughly 1,446,230 settled people.[5] Lashkargah serves as the provincial capital.");
+                 break;
+case 13:
+                 System.out.println("Herat (Pashto/Dari: هرات) is one of the thirty-four provinces of Afghanistan, located in the north-western part of the country. Together with Badghis, Farah, and Ghor provinces, it makes up the north-western region of Afghanistan. Its primary city and administrative capital is Herat City. The province of Herat is divided into about 17 districts and contains over 1,000 villages. It has a population of about 2,187,169, making it the second most populated province in Afghanistan behind Kabul Province.[2] The population is multi-ethnic but largely Persian-speaking.");
+                 break;            
 case 2
                 System.out.println("Balkh province is located in northern Afghanistan and is known for its fertile land and high potential in the agricultural sector. Mazar-i-Sharif, located in Balkh, is Afghanistan’s fourth largest city and by far the most important urban center of the northern region.  Given the relative security and political stability in Balkh, development and construction projects like irrigation rehabilitation has occurred over the past five years.  A substantial amount of almond and apricot orchards have been planted and maintained since the irrigation overhaul began.
 
