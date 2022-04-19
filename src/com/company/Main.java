@@ -50,6 +50,17 @@ case 10:
 
  ");
                 break;
+                                    case 11:
+                System.out.println("  ghor also is one of the thirthy four provinces have afghanistan it is located in the western ");
+                break;
+                                    case 12:
+                System.out.println(" Helmand was part of the Greater Kandahar region until made into a separate province by the Afghan government in the 20th century. The province has a domestic airport (Bost Airport), in the city of Lashkargah that was heavily used by NATO-led forces. The former British Camp Bastion and U.S. Camp Leatherneck is a short distance southwest of Lashkargah.
+
+The Helmand River flows through the mainly desert region of the province, providing water used for irrigation. The Kajaki Dam, which is one of Afghanistan's major reservoirs, is located in the Kajaki district. Helmand is believed to be one of the world's largest opium-producing regions, responsible for around 42% of the world's total production.[");
+                break;
+                                    case 13:
+                System.out.println("The province of Herat shares a border with Iran in the west and Turkmenistan in the north, making it an important trading region. The Trans-Afghanistan Pipeline (TAPI) is expected to pass through Herat from Turkmenistan to Pakistan and India in the south. The province has two airports, one is the Herat International Airport in the capital of Herat and the other is at the Shindand Air Base, which is one of the largest military bases in Afghanistan. The Salma Dam which is fed by the Hari River is also located in this province. ");
+                break;
         }
 
     }
