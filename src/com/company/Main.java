@@ -63,4 +63,15 @@ The Logar River enters the province through the west, and leaves to the north.  
 
 case 22:
                 System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")
+                                   case 32:
+                                   System.out.println("Uruzgan (Pashto: اروزګان; Dariارزگان), also spelled as Urozgan or Oruzgan, is one of the thirty-four provinces of Afghanistan. Uruzgan is located in the center of the country. The population is 436,079,[3] and the province is mostly a tribal society. Tarinkot serves as the capital of the province.
 
+In 2004, the new Daykundi Province was carved out of an area in the north. Uruzgan borders the provinces of Kandahar, Daykundi, Ghazni, Zabul, and Helmand. ");
+                                                      break;
+                                                      case 33:
+                                                      System.out.println("Wardak Province[4] (Pashto: وردګ ; Dari: وردگ), also called Wardag or Wardak, is one of the 34 provinces of Afghanistan, located in the central region of Afghanistan. It is divided into eight districts and has a population of approximately 671,817.[3] The capital of the province is Maidan Shar, while the most populous district in the province is Saydabad District. ");
+                                                      break;
+                                                      
+                                                      case 34:
+                                                      System.out.println("Zabul (Pashto/Dari: زابل) is one of the 34 provinces of Afghanistan, located in the south of the country. It has a mostly rural population of about 391,000.[4] Zabul became an independent province from neighbouring Kandahar in 1963. Historically, it was part of the Zabulistan region. Qalat serves as the capital of the province");
+                                                      break;
