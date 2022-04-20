@@ -76,7 +76,25 @@ The Logar River enters the province through the west, and leaves to the north.  
 
 case 22:
                 System.out.println("Nangarhār (Pashto: ننګرهار; Dari: ننگرهار) also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country and bordering Logar, Kabul, Laghman and Kunar provinces as well as having an international border with Pakistan. It is divided into 22 districts and has a population of about 1,735,531,[3] the third highest of the country's 34 provinces. The city of Jalalabad is the capital of Nangarhar province.")
-                              case 29:
+                  case 23:
+                System.out.println(" Nimruz or Nimroz is one of the 34 provinces of Afghanistan, located in the southwestern part of the country. It lies to the east of the Sistan and Baluchestan Province of Iran and north of Balochistan, Pakistan, also bordering the Afghan provinces of Farah and Helmand. It has a population of about 186,963 people. Wikipedia
+Area: 43,000 km²
+Capital: Zaranj
+Population: 630,000 (2021).");
+                break;
+case 24:
+                System.out.println("Nuristan, also spelled as Nurestan or Nooristan, is one of the 34 provinces of Afghanistan, located in the eastern part of the country. It is divided into seven districts and is Afghanistan's least populous province, with a population of around 167,000. Parun serves as the provincial capital. Wikipedia
+Area: 9,225 km²
+Capital: Parun
+ISO 3166 code: AF-NUR ");
+                break;
+case 25:
+                System.out.println(" Paktia is one of the 34 provinces of Afghanistan, located in the east of the country. Forming part of the larger Loya Paktia region, Paktia Province is divided into 15 districts and has a population of roughly 623,000, which is mostly a tribal society living in rural areas. Wikipedia
+Area: 6,432 km²
+Capital: Gardez
+Population: 551,987 (2015).");
+                break;            
+case 29:
                              system.out.println("Samangan (Dari: سمنگان; Pashto: سمنګان) is one of the thirty-four provinces of Afghanistan, located north of the Hindu Kush mountains in the central part of the country. The province covers 11,218 square kilometres (4,331 sq mi) and is surrounded by Sar-e Pol Province in the west, Balkh in the north, Baghlan in the east, and Bamyan in the south.
 
 Samangan province is divided into 7 districts and contains 674 villages.[4] It has a population of about 438,000,[3] which is multi-ethnic and mostly a rural society. The city of Aybak serves as the provincial capital.
