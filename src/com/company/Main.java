@@ -56,7 +56,7 @@ case 23:
                 System.out.println(" Nimruz or Nimroz is one of the 34 provinces of Afghanistan, located in the southwestern part of the country. It lies to the east of the Sistan and Baluchestan Province of Iran and north of Balochistan, Pakistan, also bordering the Afghan provinces of Farah and Helmand. It has a population of about 186,963 people. Wikipedia
 Area: 43,000 km²
 Capital: Zaranj
-Population: 630,000 (2021) ");
+Population: 630,000 (2021).");
                 break;
 case 24:
                 System.out.println("Nuristan, also spelled as Nurestan or Nooristan, is one of the 34 provinces of Afghanistan, located in the eastern part of the country. It is divided into seven districts and is Afghanistan's least populous province, with a population of around 167,000. Parun serves as the provincial capital. Wikipedia
@@ -71,6 +71,7 @@ Capital: Gardez
 Population: 551,987 (2015).");
                 break;
         }
+
 
 
 
