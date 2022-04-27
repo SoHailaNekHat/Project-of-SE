@@ -174,5 +174,13 @@ case 15:
                                                       System.out.println("Zabul (Pashto/Dari: زابل) is one of the 34 provinces of Afghanistan, located in the south of the country. It has a mostly rural population of about 391,000.[4] Zabul became an independent province from neighbouring Kandahar in 1963. Historically, it was part of the Zabulistan region. Qalat serves as the capital of the province");
 case 16:
   system.out.println("   Kunduz Is province (/kʊnduːz/; Pashto: کندز; Persian: قندوز original name: کُهَندِژ) is a city in northern Afghanistan, the capital of Kunduz Province. The city has an estimated population of about 268,893 as of 2015, making it about the 7th-largest city of Afghanistan, and the largest city in northeastern Afghanistan.[2] Kunduz is in the historical Tokharistan region of Bactria, near the confluence of the Kunduz River with the Khanabad River. Kunduz is linked by highways with Kabul to the south, Mazar-i-Sharif to the west, and Badakhshan to the east. Kunduz is also linked with Dushanbe in Tajikistan to the north, via the Afghan dry port of Sherkhan Bandar. ");
+
    break;
+case 26:
+System.out.println("Paktia is one of the 34 provinces of Afghanistan, located in the east of the country. Forming part of the larger Loya Paktia region, Paktia Province is divided into 15 districts and has a population of roughly 623,000, which is mostly a tribal society living in rural areas");
+case 27:
+System.out.println("Panjshir, literally "Five Lions", also spelled as Panjsher is one of the thirty-four provinces of Afghanistan, located in the northeastern part of the country containing the Panjshir Valley. The province is divided into seven districts and contains 512 villages. ");
+case 28:
+Systme.out.println("Parwān, also spelled Parvān, is one of the 34 provinces of Afghanistan. It has a population of about 751,000. The province is multi-ethnic and mostly a rural society. The province is divided into ten districts. The town of Charikar serves as the provincial capital.   ");
+
 
